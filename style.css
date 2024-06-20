@@ -226,6 +226,10 @@ fieldset legend {
   outline: 2px solid black;
 }
 
+.input-wrapper input:invalid {
+  border: 0.5px solid red;
+}
+
 .col-3 {
   display: flex;
   gap: 10px;
