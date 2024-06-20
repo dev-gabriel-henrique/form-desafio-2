@@ -14,7 +14,7 @@
 </p>
 
 # 🚀Projeto 
-Este é um formulário para agendar mentorias.
+Este é um formulário para avaliar as mentorias agendadas.
 
 # 💻Tecnologias
 
